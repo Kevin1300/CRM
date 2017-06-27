@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2af420a7a25d41fab33fd64f32d3e32d" Name="Diagram1" ZoomLevel="82">
+        <EntityTypeShape EntityType="NewCRMModel.Department" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="NewCRMModel.Employee" Width="1.5" PointX="3" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NewCRMModel.EmpRoleRelation" Width="1.5" PointX="5.25" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NewCRMModel.Permission" Width="1.5" PointX="10.75" PointY="0.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="NewCRMModel.Role" Width="1.5" PointX="7" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="NewCRMModel.RolePerRelationship" Width="1.5" PointX="8.875" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="NewCRMModel.VipPermssion" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="NewCRMModel.FK_Employee_Department" ManuallyRouted="false" />
+        <AssociationConnector Association="NewCRMModel.FK_EmpRoleRelation_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="NewCRMModel.FK_VipPermssion_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="NewCRMModel.FK_EmpRoleRelation_Role" ManuallyRouted="false" />
+        <AssociationConnector Association="NewCRMModel.FK_RolePerRelationship_Permission" ManuallyRouted="false" />
+        <AssociationConnector Association="NewCRMModel.FK_VipPermssion_Permission" ManuallyRouted="false" />
+        <AssociationConnector Association="NewCRMModel.FK_RolePerRelationship_Role" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

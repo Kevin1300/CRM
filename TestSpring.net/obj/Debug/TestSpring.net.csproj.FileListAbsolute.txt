@@ -1,0 +1,10 @@
+F:\03广州传智.Net上课视频\DotNet11期\2014-04-99CRM11\Src\TestSpring.net\bin\Debug\TestSpring.net.exe.config
+F:\03广州传智.Net上课视频\DotNet11期\2014-04-99CRM11\Src\TestSpring.net\bin\Debug\TestSpring.net.exe
+F:\03广州传智.Net上课视频\DotNet11期\2014-04-99CRM11\Src\TestSpring.net\bin\Debug\TestSpring.net.pdb
+F:\03广州传智.Net上课视频\DotNet11期\2014-04-99CRM11\Src\TestSpring.net\bin\Debug\Common.Logging.dll
+F:\03广州传智.Net上课视频\DotNet11期\2014-04-99CRM11\Src\TestSpring.net\bin\Debug\Spring.Core.dll
+F:\03广州传智.Net上课视频\DotNet11期\2014-04-99CRM11\Src\TestSpring.net\obj\Debug\TestSpring.net.csprojResolveAssemblyReference.cache
+F:\03广州传智.Net上课视频\DotNet11期\2014-04-99CRM11\Src\TestSpring.net\obj\Debug\TestSpring.net.exe
+F:\03广州传智.Net上课视频\DotNet11期\2014-04-99CRM11\Src\TestSpring.net\obj\Debug\TestSpring.net.pdb
+F:\03广州传智.Net上课视频\DotNet11期\2014-04-99CRM11\Src\TestSpring.net\bin\Debug\CRM11.Utility.dll
+F:\03广州传智.Net上课视频\DotNet11期\2014-04-99CRM11\Src\TestSpring.net\bin\Debug\CRM11.Utility.pdb
